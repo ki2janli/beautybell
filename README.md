@@ -1,5 +1,8 @@
 # beutybell
 
+# Minus
+facebook login uda coba implement tapi belum berhasil sempurna ( belum pernah implementasi facebooklogin)
+
 ## Project setup
 ```
 npm install
